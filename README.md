@@ -15,6 +15,4 @@ This repository also includes the code for metadata analysis used to evaluate wh
 - Python 3.10.0
 - Libraries listed in requirements.txt
 
-To install dependencies, run: 
-
-'''pip install -r requirements.txt'''
+To install dependencies, run: pip install -r requirements.txt
